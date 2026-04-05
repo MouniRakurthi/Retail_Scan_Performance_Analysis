@@ -22,9 +22,9 @@ The data was cleaned and transformed to ensure accuracy and consistency before a
 
 🛠️ Tools & Technologies 
 
-Python (Pandas, NumPy) – Data cleaning & EDA  
+Python (Pandas) – Data cleaning & EDA  
 
-SQL (PostgreSQL / MySQL / SQL Server) – Data querying  
+SQL (MySQL) – Data querying  
 
 Power BI – Dashboard creation & visualization  
 
