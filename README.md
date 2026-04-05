@@ -50,7 +50,7 @@ Time-based sales trends
 
 📸 Screenshots are available in the screenshots folder.
 
-📈 Results & Insights
+📈 Results & Insights: 
 Identified key revenue-driving products and customers
 Observed seasonal trends in sales
 Analyzed the impact of discounts on sales performance
@@ -60,6 +60,6 @@ Open Python files to review data cleaning and EDA process
 Execute SQL queries in any SQL environment (PostgreSQL/MySQL/SQL Server)
 Open the Power BI .pbix file to explore the dashboard
 Refer to the report and presentation for detailed insights
-🎯 Conclusion
 
+🎯 Conclusion: 
 This project demonstrates an end-to-end data analysis workflow, including data preprocessing, querying, visualization, and reporting. It highlights the ability to extract meaningful insights from raw data and support business decisions.
